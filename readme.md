@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 # Hi there! 👋
 
 I'm **Manuel Kyd Thomas Nagpala**, a passionate **Web & App Developer** with expertise in building interactive and scalable applications. With a solid foundation in frontend development and a keen eye for detail, I aim to deliver high-quality and responsive web and mobile experiences.
