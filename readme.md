@@ -28,7 +28,7 @@ I'm Manuel Kyd Thomas Nagpala, a passionate **Web & App Developer** with experti
 ## 🌐 Connect with Me
 
 - **LinkedIn**: [linkedin.com/in/yourprofile](in/manuel-kyd-thomas-nagpala-31371224a)
-- **Portfolio**: [yourwebsite.com]([https://yourwebsite.com](https://manuel-kyd-thomas-nagpala.vercel.app/))
+- **Portfolio**: [manuel-kyd-thomas-nagpala.vercel.app](https://manuel-kyd-thomas-nagpala.vercel.app/)
 - **Email**: monagpala@gmail.com
 
 ## 📈 GitHub Stats
