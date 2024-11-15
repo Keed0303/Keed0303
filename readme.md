@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm **[Your Name]**, a passionate **Web & App Developer** with expertise in building interactive and scalable applications. With a solid foundation in frontend development and a keen eye for detail, I aim to deliver high-quality and responsive web and mobile experiences.
+I'm Manuel Kyd Thomas Nagpala, a passionate **Web & App Developer** with expertise in building interactive and scalable applications. With a solid foundation in frontend development and a keen eye for detail, I aim to deliver high-quality and responsive web and mobile experiences.
 
 ## 🚀 Skills
 
@@ -27,23 +27,15 @@ I'm **[Your Name]**, a passionate **Web & App Developer** with expertise in buil
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
-- **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
-- **Email**: your.email@example.com
+- **LinkedIn**: [linkedin.com/in/yourprofile](in/manuel-kyd-thomas-nagpala-31371224a)
+- **Portfolio**: [yourwebsite.com]([https://yourwebsite.com](https://manuel-kyd-thomas-nagpala.vercel.app/))
+- **Email**: monagpala@gmail.com
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keed0303&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 📱 Projects
-
-### Project 1: [Awesome Web App](https://github.com/yourusername/awesome-web-app)
-A web application built with Angular and TypeScript, designed to [describe project purpose].
-
-### Project 2: [React Native Mobile App](https://github.com/yourusername/react-native-mobile-app)
-A cross-platform mobile application for [describe project purpose].
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keed0303&layout=compact&theme=radical)
 
 ---
 
